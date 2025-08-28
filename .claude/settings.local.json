@@ -12,7 +12,9 @@
       "Bash(flutter pub:*)",
       "Read(/Users/zhangqiuyang/Desktop/CodeSpace/businezz/flutter_character_dress_up/flutter_character_dress_up/build/web/**)",
       "Read(/Users/zhangqiuyang/Desktop/CodeSpace/businezz/flutter_character_dress_up/**)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
